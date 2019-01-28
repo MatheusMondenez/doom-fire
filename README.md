@@ -1,4 +1,4 @@
-The fire effect of Doom game
+The fire effect of Doom game :fire:
 
 Demo: https://matheusmondenez.github.io/doom-fire/
 
